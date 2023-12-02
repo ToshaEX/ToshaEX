@@ -1,7 +1,7 @@
 ### Hello there, i'm Oshan Tharindu 👋
 
-- 🔭 I’m currently final year Software engineering undergraduate @SLTC. 
-- 🌱 I’m currently learning fullsatck web development.
+- 🔭 I’m currently Working as a Associate Software engineer @ideahub. 
+- 🌱 I’m currently mastering JS.
 - 👯 I’m looking to collaborate on React,Next and Nest Projects.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Fullstack Development, React,Next and Nest.
