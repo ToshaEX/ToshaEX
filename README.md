@@ -1,6 +1,6 @@
 ### Hello there, i'm Oshan Tharindu 👋
 
-- 🔭 I’m currently Working as a Associate Software engineer @ideahub. 
+- 🔭 I’m currently Working as a Software engineer @tuktukrental.com. 
 - 🌱 I’m currently mastering JS.
 - 👯 I’m looking to collaborate on React,Next and Nest Projects.
 - 🤔 I’m looking for help with ...
