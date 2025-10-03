@@ -28,8 +28,8 @@ I’m passionate about building scalable, secure, and user-friendly applications
 ---
 
 ### 📬 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/oshan-tharindu-ranasinghe-8aa98111b)  
-- ✉️ Email: [osh4n.dev@gmail.com](mailto:osh4n.dev@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/oshan-tharindu/)  
+- ✉️ Email: [tharinduoshan@gmail.com](mailto:tharinduoshan@gmail.com)  
 
 ---
 
