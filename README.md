@@ -1,11 +1,37 @@
-### Hello there, i'm Oshan Tharindu 👋
+### 👋 Hello there, I'm Oshan Tharindu  
 
-- 🔭 I’m currently Working as a Software engineer @tuktukrental.com. 
-- 🌱 I’m currently mastering JS.
-- 👯 I’m looking to collaborate on React,Next and Nest Projects.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Fullstack Development, React,Next and Nest.
-- 📫 How to reach me: [@Via Linked In](linkedin.com/in/oshan-tharindu-ranasinghe-8aa98111b)
-- 😄 Pronouns: He
-- ⚡ Fun fact: Balancing Gaming life and Study life 
+🚀 **Software Engineer | Full-Stack Developer | FinTech & Enterprise Solutions**  
 
+I’m passionate about building scalable, secure, and user-friendly applications. With 2+ years of industry experience, I’ve contributed to projects ranging from **Applicant Tracking Systems (ATS)** to **enterprise admin dashboards** and **FinTech solutions**, including contributions toward achieving **PCI Certification**.  
+
+---
+
+### 🔧 Tech Stack  
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS, shadcn/ui  
+- **Backend:** NestJS, Node.js, TypeORM  
+- **Database:** PostgreSQL, MySQL, MongoDB, OracleDB  
+- **Other:** Redux, MUI, Notistack, Docker  
+
+---
+
+### 🌱 Currently Learning  
+- Advanced **JavaScript & TypeScript** patterns  
+- Scalable **system design & architecture**  
+- Exploring AI-powered tools in modern workflows  
+
+---
+
+### 🤝 Let’s Collaborate  
+- Open to working on **React, Next.js, and NestJS projects**  
+- Interested in **FinTech, enterprise software, and workflow automation**  
+
+---
+
+### 📬 Connect With Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/oshan-tharindu-ranasinghe-8aa98111b)  
+- ✉️ Email: [osh4n.dev@gmail.com](mailto:osh4n.dev@gmail.com)  
+
+---
+
+### ⚡ Fun Fact  
+I believe **learning never stops**—every project is an opportunity to grow and share knowledge.  
